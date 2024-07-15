@@ -94,7 +94,7 @@
     url('https://cdn.jsdelivr.net/gh/aparium/fonts/freight-big/freight-big-bold.ttf') format('truetype'),
 }
 
- /* freight-big-bold */
+ /* freight-big-black */
  @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'freight-big';
@@ -239,7 +239,7 @@
     url('https://cdn.jsdelivr.net/gh/aparium/fonts/freight-sans/freight-sans-bold.ttf') format('truetype'),
 }
 
- /* freight-sans-bold */
+ /* freight-sans-black */
  @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'freight-sans';
@@ -311,7 +311,7 @@
 /* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
 
 
-/* playfair-display-regular - latin */
+/* playfair-display-regular */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Playfair Display';
@@ -324,7 +324,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-regular.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-regular.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
 }
-/* playfair-display-500 - latin */
+/* playfair-display-500 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Playfair Display';
@@ -337,7 +337,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-500.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-500.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
 }
-/* playfair-display-600 - latin */
+/* playfair-display-600 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Playfair Display';
@@ -350,7 +350,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-600.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-600.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
 }
-/* playfair-display-700 - latin */
+/* playfair-display-700 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Playfair Display';
@@ -363,7 +363,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-700.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-700.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
 }
-/* playfair-display-800 - latin */
+/* playfair-display-800 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Playfair Display';
@@ -376,7 +376,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-800.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/playfair-display-800.svg#PlayfairDisplay') format('svg'); /* Legacy iOS */
 }
-/* playfair-display-900 - latin */
+/* playfair-display-900 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Playfair Display';
@@ -438,8 +438,8 @@
 /* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
 
 
-/* open-sans-regular - latin */
-/* open-sans-300 - latin */
+/* open-sans-regular */
+/* open-sans-300 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Open Sans';
@@ -452,7 +452,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-300.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-300.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
-/* open-sans-regular - latin */
+/* open-sans-regular */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Open Sans';
@@ -465,7 +465,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-regular.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
-/* open-sans-500 - latin */
+/* open-sans-500 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Open Sans';
@@ -478,7 +478,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-500.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-500.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
-/* open-sans-600 - latin */
+/* open-sans-600 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Open Sans';
@@ -491,7 +491,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-600.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-600.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
-/* open-sans-700 - latin */
+/* open-sans-700 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Open Sans';
@@ -504,7 +504,7 @@
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-700.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
        url('https://cdn.jsdelivr.net/gh/aparium/fonts/open-sans/open-sans-700.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
-/* open-sans-800 - latin */
+/* open-sans-800 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
   font-family: 'Open Sans';
