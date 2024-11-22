@@ -1,0 +1,95 @@
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-BlackItalic.woff2);
+  font-weight: 900;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-Black.woff2);
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-BoldItalic.woff2);
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-Bold.woff2);
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-BookItalic.woff2);
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-Book.woff2);
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-LightItalic.woff2);
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-Light.woff2);
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-MediumItalic.woff2);
+  font-weight: 500;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-Medium.woff2);
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-SemiBoldItalic.woff2);
+  font-weight: 600;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-micro;
+  src: url(/fonts/FreightMicro/FreightMicro-SemiBold.woff2);
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+}

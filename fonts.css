@@ -1,69 +1,58 @@
-<!DOCTYPE html>
-<head>
-<link rel="stylesheet"type="text/css"href="https://raw.githubusercontent.com/aparium/fonts/main/aparium-fonts.css">
-<meta charset="UTF-8">
-<base target="_blank">
-<title>Aparium Fonts</title>
-<style>
 body {
-    -webkit-font-smoothing: subpixel-antialiased;
+  -webkit-font-smoothing: subpixel-antialiased
 }
 p {
-    font-family: "Freight Sans","Open Sans","Helvetica Neue",Arial,sans-serif;
-    font-weight: 400;
-    white-space: pre-wrap
+  font-family: FreightSans,OpenSans,HelveticaNeue,Arial,sans-serif;
+  font-weight: 400;
+  white-space: pre-wrap
 }
 h1 {
-    margin: .67em 0;
-    color: #000;
-    font-family: "Freight Big", "Playfair Display", Georgia, "Times New Roman", serif;
-    font-weight: 500;
-    text-transform: uppercase;
-    font-size: 4rem;
-    text-rendering: optimizeLegibility;
-    font-size: 5vw
+  margin: .67em0;
+  color: #000;
+  font-family: FreightBig,PlayfairDisplay,Georgia,TimesNewRoman,serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-size: 4rem;
+  text-rendering: optimizeLegibility;
+  font-size: 5vw
 }
 h2 {
-    color: #000;
-    font-family: "Freight Big", "Playfair Display", Georgia, "Times New Roman", serif;
-    font-weight: 500;
-    font-size: 3.5rem;
-    text-transform: uppercase;
-    text-rendering: optimizeLegibility
+  color: #000;
+  font-family: FreightBig,PlayfairDisplay,Georgia,TimesNewRoman,serif;
+  font-weight: 500;
+  font-size: 3.5rem;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility
 }
 h3 {
-    color: #000;
-    font-family: "Freight Big", "Playfair Display", Georgia, "Times New Roman", serif;
-    font-weight: 500;
-    font-size: 3rem;
-    text-transform: uppercase;
-    text-rendering: optimizeLegibility
+  color: #000;
+  font-family: FreightBig,PlayfairDisplay,Georgia,TimesNewRoman,serif;
+  font-weight: 500;
+  font-size: 3rem;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility
 }
 h4 {
-    color: #000;
-    font-family: "Freight Big", "Playfair Display", Georgia, "Times New Roman", serif;
-    font-weight: 500;
-    font-size: 2.5rem;
-    text-transform: uppercase;
-    text-rendering: optimizeLegibility
+  color: #000;
+  font-family: FreightBig,PlayfairDisplay,Georgia,TimesNewRoman,serif;
+  font-weight: 500;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility
 }
 h5 {
-    color: #000;
-    font-family: "Freight Big", "Playfair Display", Georgia, "Times New Roman", serif;
-    font-weight: 500;
-    font-size: 2rem;
-    text-transform: uppercase;
-    text-rendering: optimizeLegibility
+  color: #000;
+  font-family: FreightBig,PlayfairDisplay,Georgia,TimesNewRoman,serif;
+  font-weight: 500;
+  font-size: 2rem;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility
 }
 h6 {
-    color: #000;
-    font-family: "Freight Sans", "Open Sans", "Helvetica Neue", Arial, sans-serif;
-    font-weight: 400;
-    font-size: 1.5rem;
-    text-transform: uppercase;
-    text-rendering: optimizeLegibility
+  color: #000;
+  font-family: FreightSans,OpenSans,HelveticaNeue,Arial,sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  text-transform: uppercase;
+  text-rendering: optimizeLegibility
 }
-</style>
-</head>
-
-<h1>Test</h1>

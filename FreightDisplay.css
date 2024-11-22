@@ -1,0 +1,191 @@
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-BlackItalic.woff2);
+  font-weight: 900;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-Black.woff2);
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-BoldItalic.woff2);
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-Bold.woff2);
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-BookItalic.woff2);
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-Book.woff2);
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-BlackItalic.woff2);
+  font-weight: 900;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-Black.woff2);
+  font-weight: 900;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-BoldItalic.woff2);
+  font-weight: 700;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-Bold.woff2);
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-BookItalic.woff2);
+  font-weight: 400;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-Book.woff2);
+  font-weight: 400;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-LightItalic.woff2);
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-Light.woff2);
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-MediumItalic.woff2);
+  font-weight: 500;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-Medium.woff2);
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-SemiBoldItalic.woff2);
+  font-weight: 600;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display-compressed;
+  src: url(/fonts/FreightDisplay/FreightDisplayComp-SemiBold.woff2);
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-LightItalic.woff2);
+  font-weight: 300;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-Light.woff2);
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-MediumItalic.woff2);
+  font-weight: 500;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-Medium.woff2);
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-SemiBoldItalic.woff2);
+  font-weight: 600;
+  font-style: italic;
+  font-stretch: normal;
+}
+
+@font-face {
+  font-family: freight-display;
+  src: url(/fonts/FreightDisplay/FreightDisplay-SemiBold.woff2);
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+}
