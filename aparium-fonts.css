@@ -1,8 +1,8 @@
 
 /*
 <!-- 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aparium/fonts/aparium-fonts.css">
-<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/aparium/fonts/main/aparium-fonts.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aparium/fonts/ahg-fonts.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/aparium/fonts/main/ahg-fonts.css">
 
 -->
 */
@@ -114,37 +114,37 @@
 
 
 .freight-big-light {
-  font-family: "Freight Big", sans-serif;
+  font-family: 'Freight Big', sans-serif;
   font-weight: 300;
   font-style: normal;
 }
 
 .freight-big-regular {
-  font-family: "Freight Big", sans-serif;
+  font-family: 'Freight Big', sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 .freight-big-mediumn {
-  font-family: "Freight Big", sans-serif;
+  font-family: 'Freight Big', sans-serif;
   font-weight: 500;
   font-style: normal;
 }
 
 .freight-big-semibold {
-  font-family: "Freight Big", sans-serif;
+  font-family: 'Freight Big', sans-serif;
   font-weight: 600;
   font-style: normal;
 }
 
 .freight-big-bold {
-  font-family: "Freight Big", sans-serif;
+  font-family: 'Freight Big', sans-serif;
   font-weight: 700;
   font-style: normal;
 }
 
 .freight-big-black {
-  font-family: "Freight Big", sans-serif;
+  font-family: 'Freight Big', sans-serif;
   font-weight: 900;
   font-style: normal;
 }
@@ -257,7 +257,6 @@
  
  /* Freight-Sans */
 
-
 .freight-sans-thin {
   font-family: 'Freight Sans', sans-serif;
   font-weight: 100;
@@ -300,11 +299,303 @@
   font-style: normal;
 }
  
+ /* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm 
+|    AHG | Freight-Text               
+   mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+  
+   @font-face {
+    font-display: swap;
+    font-family: "Freight Text";
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 300;
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-light.eot");
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-light.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-light.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-light.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-light.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-family: "Freight Text";
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 400;
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-book.eot");
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-book.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-book.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-book.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-book.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-family: "Freight Text";
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 500;
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-medium.eot");
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-medium.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-medium.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-medium.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-medium.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-family: "Freight Text";
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 600;
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-semibold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-semibold.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-semibold.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-semibold.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-semibold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-family: "Freight Text";
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 700;
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-bold.eot");
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-bold.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-bold.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-bold.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-bold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-display: swap;
+    font-family: "Freight Text";
+    font-style: normal;
+    font-stretch: normal;
+    font-weight: 900;
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-black.eot");
+    src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-black.eot?#iefix") format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-black.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-black.woff") format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/freight-text/freight-text-black.ttf") format("truetype");
+  }
+  
+
+  .freight-text-light {
+    font-family: "Freight Text", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .freight-text-regular {
+    font-family: "Freight Text", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .freight-text-mediumn {
+    font-family: "Freight Text", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .freight-text-semibold {
+    font-family: "Freight Text", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .freight-text-bold {
+    font-family: "Freight Text", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .freight-text-black {
+    font-family: "Freight Text", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
  
- 
-/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+  /* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
 /* APH |  ALTERNATIVES BRAND FONTS */
 /* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+/* Preffered Alt to Freight-Big    */
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+
+/* dm-serif-display-regular - latin */
+
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'DM Serif Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/dm-serif/dm-serif-display-v15-latin-regular.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/dm-serif/dm-serif-display-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/dm-serif/dm-serif-display-v15-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/dm-serif/dm-serif-display-v15-latin-regular.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/dm-serif/dm-serif-display-v15-latin-regular.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/dm-serif/dm-serif-display-v15-latin-regular.svg#DMSerifDisplay') format('svg'); /* Legacy iOS */
+}
+
+ /* DM Serif Display */
+
+
+.dm-serif-display-regular {
+  font-family: 'DM Serif Display', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+/* Preffered to Freight-Sans    */
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+
+/* poppins-100 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 100;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-100.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-100.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-100.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-100.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-100.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+/* poppins-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 200;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-200.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-200.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-200.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-200.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-200.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+/* poppins-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-300.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-300.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-300.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-300.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-300.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+/* poppins-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-regular.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-regular.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-regular.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-regular.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+/* poppins-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-500.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-500.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-500.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-500.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+/* poppins-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-600.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-600.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-600.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-600.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-600.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+/* poppins-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-700.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-700.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-700.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-700.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+/* poppins-800 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 800;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-800.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-800.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-800.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-800.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-800.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+/* poppins-900 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-900.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-900.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-900.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-900.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/poppins/poppins-v22-latin-900.svg#Poppins') format('svg'); /* Legacy iOS */
+}
+
+ /* Poppins */
+
+.poppins-light {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-mediumn {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
 
 
 /* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
@@ -392,42 +683,41 @@
 }
 
 
-
 /* Playfair-Display */
 
   
   .playfair-display-regular {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: "playfair-display", sans-serif;
     font-weight: 400;
     font-style: normal;
   }
   
   .playfair-display-mediumn {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: "playfair-display", sans-serif;
     font-weight: 500;
     font-style: normal;
   }
   
   .playfair-display-semibold {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: "playfair-display", sans-serif;
     font-weight: 600;
     font-style: normal;
   }
   
   .playfair-display-bold {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: "playfair-display", sans-serif;
     font-weight: 700;
     font-style: normal;
   }
   
   .playfair-display-extrabold {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: "playfair-display", sans-serif;
     font-weight: 800;
     font-style: normal;
   }
 
   .playfair-display-black {
-    font-family: 'Playfair Display', sans-serif;
+    font-family: "playfair-display", sans-serif;
     font-weight: 800;
     font-style: normal;
   }
@@ -438,8 +728,8 @@
 /* Alternative to Freight-Sans    */
 /* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
 
-
 /* open-sans-regular */
+
 /* open-sans-300 */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
@@ -523,37 +813,37 @@
 /* Open-Sans */
 
 .open-sans-light {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "open-sans", sans-serif;
   font-weight: 300;
   font-style: normal;
 }
 
 .open-sans-regular {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "open-sans", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 .open-sans-mediumn {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "open-sans", sans-serif;
   font-weight: 500;
   font-style: normal;
 }
 
 .open-sans-semibold {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "open-sans", sans-serif;
   font-weight: 600;
   font-style: normal;
 }
 
 .open-sans-bold {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "open-sans", sans-serif;
   font-weight: 700;
   font-style: normal;
 }
 
 .open-sans-extrabold {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "open-sans", sans-serif;
   font-weight: 800;
   font-style: normal;
 }

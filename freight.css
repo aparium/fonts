@@ -21,7 +21,7 @@
 /* freight-big-light */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-big';
+  font-family: "Freight Big";
   font-style: normal;
   font-stretch: normal;
   font-weight: 300;
@@ -35,7 +35,7 @@
 /* freight-big-book */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-big';
+  font-family: "Freight Big";
   font-style: normal;
   font-stretch: normal;
   font-weight: 400;
@@ -50,7 +50,7 @@
  /* freight-big-medium */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-big';
+  font-family: "Freight Big";
   font-style: normal;
   font-stretch: normal;
   font-weight: 500;
@@ -64,7 +64,7 @@
  /* freight-big-semibold */
  @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-big';
+  font-family: "Freight Big";
   font-style: normal;
   font-stretch: normal;
   font-weight: 600;
@@ -78,7 +78,7 @@
  /* freight-big-bold */
  @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-big';
+  font-family: "Freight Big";
   font-style: normal;
   font-stretch: normal;
   font-weight: 700;
@@ -92,7 +92,7 @@
  /* freight-big-bold */
  @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-big';
+  font-family: "Freight Big";
   font-style: normal;
   font-stretch: normal;
   font-weight: 900;
@@ -108,37 +108,37 @@
 
 
 .freight-big-light {
-  font-family: "freight-big", sans-serif;
+  font-family: "Freight Big", sans-serif;
   font-weight: 300;
   font-style: normal;
 }
 
 .freight-big-regular {
-  font-family: "freight-big", sans-serif;
+  font-family: "Freight Big", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 .freight-big-mediumn {
-  font-family: "freight-big", sans-serif;
+  font-family: "Freight Big", sans-serif;
   font-weight: 500;
   font-style: normal;
 }
 
 .freight-big-semibold {
-  font-family: "freight-big", sans-serif;
+  font-family: "Freight Big", sans-serif;
   font-weight: 600;
   font-style: normal;
 }
 
 .freight-big-bold {
-  font-family: "freight-big", sans-serif;
+  font-family: "Freight Big", sans-serif;
   font-weight: 700;
   font-style: normal;
 }
 
 .freight-big-black {
-  font-family: "freight-big", sans-serif;
+  font-family: "Freight Big", sans-serif;
   font-weight: 900;
   font-style: normal;
 }
@@ -152,7 +152,7 @@
 /* freight-sans-thin */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-sans';
+  font-family: 'Freight Sans';
   font-style: normal;
   font-stretch: normal;
   font-weight: 100;
@@ -166,7 +166,7 @@
 /* freight-sans-light */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-sans';
+  font-family: 'Freight Sans';
   font-style: normal;
   font-stretch: normal;
   font-weight: 300;
@@ -180,7 +180,7 @@
 /* freight-sans-book */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-sans';
+  font-family: 'Freight Sans';
   font-style: normal;
   font-stretch: normal;
   font-weight: 400;
@@ -195,7 +195,7 @@
  /* freight-sans-medium */
 @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-sans';
+  font-family: 'Freight Sans';
   font-style: normal;
   font-stretch: normal;
   font-weight: 500;
@@ -209,7 +209,7 @@
  /* freight-sans-semibold */
  @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-sans';
+  font-family: 'Freight Sans';
   font-style: normal;
   font-stretch: normal;
   font-weight: 600;
@@ -223,7 +223,7 @@
  /* freight-sans-bold */
  @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-sans';
+  font-family: 'Freight Sans';
   font-style: normal;
   font-stretch: normal;
   font-weight: 700;
@@ -237,7 +237,7 @@
  /* freight-sans-bold */
  @font-face {
   font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: 'freight-sans';
+  font-family: 'Freight Sans';
   font-style: normal;
   font-stretch: normal;
   font-weight: 900;
@@ -253,19 +253,19 @@
 
 
 .freight-sans-thin {
-  font-family: "freight-sans", sans-serif;
+  font-family: 'Freight Sans', sans-serif;
   font-weight: 100;
   font-style: normal;
 }
 
 .freight-sans-light {
-  font-family: "freight-sans", sans-serif;
+  font-family: 'Freight Sans', sans-serif;
   font-weight: 300;
   font-style: normal;
 }
 
 .freight-sans-regular {
-  font-family: "freight-sans", sans-serif;
+  font-family: 'Freight Sans', sans-serif;
   font-weight: 400;
   font-style: normal;
 }
@@ -277,19 +277,19 @@
 }
 
 .freight-sans-semibold {
-  font-family: "freight-sans", sans-serif;
+  font-family: 'Freight Sans', sans-serif;
   font-weight: 600;
   font-style: normal;
 }
 
 .freight-sans-bold {
-  font-family: "freight-sans", sans-serif;
+  font-family: 'Freight Sans', sans-serif;
   font-weight: 700;
   font-style: normal;
 }
 
 .freight-sans-black {
-  font-family: "freight-sans", sans-serif;
+  font-family: 'Freight Sans', sans-serif;
   font-weight: 900;
   font-style: normal;
 }

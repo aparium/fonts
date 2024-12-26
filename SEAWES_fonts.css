@@ -1,0 +1,454 @@
+/**
+ * mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+ * |    AHG |   APARIUM
+ * |    AHG |   HOTEL WESTLAND CUSTOM CSS
+ * |    AHG |   https://raw.githubusercontent.com/aparium/fonts/main/ahg-google-sites.css
+ * |    mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+ *
+ * @format
+ */
+
+/**
+ * |    AHG |   LINK THE STYLE SHEET
+ * 
+ * <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aparium/SEAWES.css">
+ * <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aparium/SEAWES_fonts.css">
+ *
+ * @format
+ */
+
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+/* APH |  HOTEL WESTLAND BRAND FONTS                                                                                  */
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+/*  Apercu   */
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+/* apercu-light */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Apercu";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 300;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-light.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-light.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-light.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-light.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-light.ttf") 
+  format("truetype");
+}
+
+/* apercu-regular */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Apercu";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-regular.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-regular.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-regular.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-regular.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-regular.ttf") 
+  format("truetype");
+}
+
+/* apercu-medium */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Apercu";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 500;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-medium.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-medium.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-medium.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-medium.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-medium.ttf") 
+  format("truetype");
+}
+
+/* apercu-bold */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Apercu";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 700;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-bold.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-bold.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-bold.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-bold.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-bold.ttf") 
+  format("truetype");
+}
+
+/* apercu */
+
+.apercu-light {
+  font-family: "Apercu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.apercu-regular {
+  font-family: "Apercu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.apercu-mediumn {
+  font-family: "Apercu", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.apercu-bold {
+  font-family: "Apercu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+/*  Apercu Pro    */
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+/* apercu-pro-light */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "ApercuPro";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 300;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-light.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-light.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-light.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-light.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-light.ttf") 
+  format("truetype");
+}
+
+/* apercu-pro-book */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "ApercuPro";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-regular.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-regular.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-regular.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-regular.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-regular.ttf") 
+  format("truetype");
+}
+
+/* apercu-pro-medium */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "ApercuPro";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 500;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-medium.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-medium.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-medium.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-medium.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-medium.ttf") 
+  format("truetype");
+}
+
+/* apercu-pro-bold */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "ApercuPro";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 700;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-bold.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-bold.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-bold.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-bold.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/apercu/apercu-pro-bold.ttf") 
+  format("truetype");
+}
+
+/* apercu-pro */
+
+.apercu-pro-light {
+  font-family: "ApercuPro"  sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.apercu-pro-regular {
+  font-family: "ApercuPro"  sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.apercu-pro-mediumn {
+  font-family: "ApercuPro"  sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.apercu-pro-bold {
+  font-family: "ApercuPro"  sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.apercu-pro-black {
+  font-family: "ApercuPro"  sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+/*  Prestige    */
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+/* Prestige */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Prestige";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 400;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige.woff2")
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige.ttf") 
+  format("truetype");
+}
+
+/* Prestige Bold */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: "Prestige";
+  font-style: normal;
+  font-stretch: normal;
+  font-weight: 700;
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige-bold.eot");
+  src: url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige-bold.eot?#iefix") 
+  format("embedded-opentype"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige-bold.woff2") 
+  format("woff2"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige-bold.woff") 
+  format("woff"), url("https://cdn.jsdelivr.net/gh/aparium/fonts/prestige/prestige-bold.ttf") 
+  format("truetype");
+}
+
+.prestige-regular {
+  font-family: "Prestige" sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.prestige-bold {
+  font-family: "Prestige" sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm 
+|    AHG | CABIN  (Fallback Font for ApercuPro)        
+   mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm */
+
+
+/* cabin-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-regular.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-regular.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-regular.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-regular.svg#Cabin') format('svg'); /* Legacy iOS */
+}
+/* cabin-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-500.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-500.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-500.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-500.svg#Cabin') format('svg'); /* Legacy iOS */
+}
+/* cabin-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-600.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-600.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-600.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-600.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-600.svg#Cabin') format('svg'); /* Legacy iOS */
+}
+/* cabin-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Cabin';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-700.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-700.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-700.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/cabin/cabin-700.svg#Cabin') format('svg'); /* Legacy iOS */
+}
+
+.cabin-regular {
+  font-family: "Cabin", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.cabin-mediumn {
+  font-family: "Cabin", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.cabin-semibold {
+  font-family: "Cabin", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.cabin-bold {
+  font-family: "Cabin", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm 
+|    AHG | IBM Plex Mono  (Fallback Font for Prestige)        
+   mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm  */
+
+/* ibm-plex-mono-200 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 200;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-200.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-200.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-200.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-200.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-200.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-200.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
+}
+/* ibm-plex-mono-300 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-300.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-300.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-300.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-300.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-300.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
+}
+/* ibm-plex-mono-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-regular.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-regular.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-regular.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-regular.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-regular.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
+}
+/* ibm-plex-mono-500 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-500.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-500.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-500.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-500.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-500.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
+}
+/* ibm-plex-mono-600 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-600.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-600.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-600.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-600.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-600.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
+}
+/* ibm-plex-mono-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-700.eot'); /* IE9 Compat Modes */
+  src: url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-700.woff2') format('woff2'), /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-700.woff') format('woff'), /* Chrome 5+, Firefox 3.6+, IE 9+, Safari 5.1+, iOS 5+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-700.ttf') format('truetype'), /* Chrome 4+, Firefox 3.5+, IE 9+, Safari 3.1+, iOS 4.2+, Android Browser 2.2+ */
+       url('https://cdn.jsdelivr.net/gh/aparium/fonts/ibm-plex-mono/ibm-plex-mono-700.svg#IBMPlexMono') format('svg'); /* Legacy iOS */
+}
+
+.ibm-plex-mono-light {
+  font-family: 'IBM Plex Mono', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-mon-regular {
+  font-family: 'IBM Plex Mono', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-mon-mediumn {
+  font-family: 'IBM Plex Mono', sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.ibm-plex-mon-semibold {
+  font-family: 'IBM Plex Mono', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.ibm-plex-mon-bold {
+  font-family: 'IBM Plex Mono', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
